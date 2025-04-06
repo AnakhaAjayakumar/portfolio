@@ -2,7 +2,6 @@ title: Anakha Ajayakumar
 logo: /assets/img/Portfolio DP.png
 description: >- # A Master's student in Industrial Mathematics and Data Analysis based in Bremen, Germany. With a strong foundation in mathematical modeling, data science, and optimization, I’m passionate about applying analytical thinking to solve real-world problems, especially in the energy sector. My interests lie in sustainability, renewable energy, and using optimization techniques to reduce carbon footprints and improve efficiency.
 show_downloads: false
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-# theme: jekyll-theme-minimal
